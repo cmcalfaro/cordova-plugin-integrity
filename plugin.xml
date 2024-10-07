@@ -19,6 +19,7 @@
         <param name="android-package" value="vote.directdemocracy.integrity.Integrity"/>
       </feature>
     </config-file>
+    <framework src="com.google.android.play:integrity:1.4.0" />
     <source-file src="src/android/Integrity.java" target-dir="src/vote/directdemocracy/integrity"/>
   </platform>
 
