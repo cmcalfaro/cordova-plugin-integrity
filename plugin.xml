@@ -24,7 +24,7 @@
   </platform>
 
   <platform name="ios">
-    <dependency id="cordova-plugin-add-swift-support" spec="~1.7.2" />
+    <dependency id="cordova-plugin-add-swift-support" spec="~2.0.2" />
     <config-file target="config.xml" parent="/*">
       <feature name="Integrity">
         <param name="ios-package" value="Integrity" />
